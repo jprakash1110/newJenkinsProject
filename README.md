@@ -11,5 +11,3 @@ This is Maven Project
 - Post Build in Jenkins Demo
 
 - Dockerize Build, Deploy & Run Container from Jenkins - 2nd Pipeline demo with docker build, deploy, run
-
-this is new line to test jenkins dashboard
